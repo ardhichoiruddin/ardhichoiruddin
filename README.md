@@ -3,7 +3,7 @@ Hello... my name Ardhi Choiruddin. I like design and coding especially at Fronte
 
 ## Expertise
 * React Js
-* Gatsby JS (Static Site Generation)
+* Gatsby JS (Static Site Generator)
 * SCSS
 * Html
 * Figma
