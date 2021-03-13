@@ -1,5 +1,5 @@
 ## Profil
-Hello... my name Ardhi Choiruddin. I like design and coding especially at Frontend. I spend a lot of time every day for the frontend and in front of the computer to learn new things.
+Hello... my name [Ardhi Choiruddin](https://ardhicorp.com). I am Frontend Developer from Indonesia. I spend a lot of time every day for the frontend and in front of the computer to learn new things and I focus on application performance and application security.
 
 ## Expertise
 * React Js
