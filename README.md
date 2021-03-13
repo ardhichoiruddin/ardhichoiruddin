@@ -5,6 +5,7 @@ Hello... my name Ardhi Choiruddin. I like design and coding especially at Fronte
 * React Js
 * React Native
 * Next JS
+* Typescript
 * SCSS
 * Html
 * Figma
@@ -14,6 +15,7 @@ Hello... my name Ardhi Choiruddin. I like design and coding especially at Fronte
 
 | Sosmed name | Link |
 | ------ | ------ |
+| Website | [visit now](https://ardhicorp.com) |
 | Linkedin | [visit now](https://www.linkedin.com/in/ardhi-choiruddin/) |
 | GitHub | [visit now](https://github.com/ardhichoiruddin) |
 | Dribbble | [visit now](https://dribbble.com/ardhichoiruddin) |
