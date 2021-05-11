@@ -6,6 +6,7 @@ Hello... my name [Ardhi Choiruddin](https://ardhicorp.com). I am Frontend Develo
 * React Native
 * Next JS
 * Nest JS
+* Redux
 * Typescript
 * SCSS
 * Html
