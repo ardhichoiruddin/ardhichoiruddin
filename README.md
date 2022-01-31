@@ -10,8 +10,6 @@ Hello... my name [Ardhi Choiruddin](https://ardhicorp.com). I am Frontend Develo
 * Typescript
 * SCSS
 * Html
-* Figma
-* Web and Mobile Design
 
 ## Social media
 
