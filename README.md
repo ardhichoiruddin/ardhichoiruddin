@@ -20,4 +20,4 @@ Hello... my name [Ardhi Choiruddin](https://ardhicorp.com). I am Frontend Develo
 | GitHub | [visit now](https://github.com/ardhichoiruddin) |
 | Dribbble | [visit now](https://dribbble.com/ardhichoiruddin) |
 | Medium | [visit now](https://medium.com/@ardhichoiruddin_60515) |
-| Buymecoffe | [donate now](https://www.buymeacoffee.com/ardhichoiruddin) |
+| Blog | [visit now](https://blog.ardhicorp.com/) |
