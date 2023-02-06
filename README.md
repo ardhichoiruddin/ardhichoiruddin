@@ -10,6 +10,7 @@ Hello... my name [Ardhi Choiruddin](https://ardhicorp.com). I am Frontend Develo
 * SCSS
 * Html
 * Solidity Blockchain
+* Firebase
 
 ## Social media
 
