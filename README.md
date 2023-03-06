@@ -1,5 +1,5 @@
 ## Profil
-Hello... my name [Ardhi Choiruddin](https://ardhicorp.com). I am Frontend Developer...
+Hello... my name [Ardhi Choiruddin](https://ardhicorp.com). I am Frontend Developer & I started my career in the IT world since 2016.
 
 ## Expertise
 * React Js
