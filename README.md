@@ -1,24 +1,15 @@
-## Profil
-Hello... my name [Ardhi Choiruddin](https://ardhicorp.com). I am Frontend Developer & I started my career in the IT world since 2016.
 
-## Expertise
-* React Js
-* React Native
-* Next JS
-* Redux
-* Typescript
-* SCSS
-* Html
-* Solidity Blockchain
-* Firebase
 
-## Social media
+Hello... my name `{ Ardhi Choiruddin }`. I am Frontend Developer & I started my career in the IT world since 2016.
 
-| Sosmed name | Link |
-| ------ | ------ |
-| Website | [visit now](https://ardhicorp.com) |
-| Linkedin | [visit now](https://www.linkedin.com/in/ardhi-choiruddin/) |
-| GitHub | [visit now](https://github.com/ardhichoiruddin) |
-| Dribbble | [visit now](https://dribbble.com/ardhichoiruddin) |
-| Medium | [visit now](https://medium.com/@ardhichoiruddin_60515) |
-| Blog | [visit now](https://blog.ardhicorp.com/) |
+#### &#128301; Connect with me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ardhi-choiruddin/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://me.dm/@ardhicho) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://blog.ardhicorp.com/) [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)]()
+
+#### &#127918; The tech stack I usually use
+[![My Skills](https://skillicons.dev/icons?i=js,react,prisma,nodejs,nextjs,sass,firebase,tailwind,ts,redux&perline=8)](https://dribbble.com/ardhichoiruddin)
+
+#### &#128223; Tools that I usually use
+[![My Skills](https://skillicons.dev/icons?i=vscode,gitlab,github,git,figma,codepen,docker,vercel,netlify&perline=8)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardhichoiruddin&hide_progress=true)](https://github.com/ardhichoiruddin/github-readme-stats)
+
