@@ -9,7 +9,7 @@ Hello... my name `{ Ardhi Choiruddin }`. I am Frontend Developer & I started my 
 [![My Skills](https://skillicons.dev/icons?i=js,react,prisma,nodejs,nextjs,sass,firebase,tailwind,ts,redux&perline=10)](https://dribbble.com/ardhichoiruddin)
 
 ### &#128223; Tools that I usually use
-[![My Skills](https://skillicons.dev/icons?i=vscode,gitlab,github,git,figma,codepen,docker,vercel,netlify,nginx&perline=10)]()
+[![My Skills](https://skillicons.dev/icons?i=vscode,gitlab,github,git,figma,codepen,docker,vercel,netlify,nginx,jest&perline=10)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardhichoiruddin&hide_progress=true)](https://github.com/ardhichoiruddin/github-readme-stats)
 
