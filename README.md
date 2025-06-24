@@ -1,4 +1,4 @@
 ```
 const say = 'Hello world';
-alert(message);
+console.log(say);
 ```
