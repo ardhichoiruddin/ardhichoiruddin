@@ -1,4 +1,4 @@
-```
+```javascript
 import SoftwareDeveloper from 'ardhi';
 import { Languages, Frameworks } from 'ardhi/skills';
 
