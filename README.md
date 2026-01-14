@@ -1,4 +1,17 @@
 ```
-const say = 'Hello world';
-console.log(say);
+import SoftwareDeveloper from 'ardhi';
+import { Languages, Frameworks } from 'ardhi/skills';
+
+class Bio extends SoftwareDeveloper {
+  name     = 'Ardhi';
+  title    = 'Fullstack Developer';
+  location = 'Yogyakarta, Indonesia';
+}
+
+class Skills extends SoftwareDeveloper {
+  languages  = ['JavaScript', 'TypeScript', ...Languages];
+  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
+  frameworks = ['Fastify', 'Svelte', 'React Js', 'Next Js', ...Frameworks];
+}
+
 ```
