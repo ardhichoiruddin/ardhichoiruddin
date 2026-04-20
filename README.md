@@ -23,5 +23,5 @@ class Skills extends SoftwareDeveloper {
 
 
 <h1 align="center"></h1>
- <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sdbondi&theme=github" /> 
+ <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ardhichoiruddin&theme=github" /> 
 <h1 align="center"></h1>
