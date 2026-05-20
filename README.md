@@ -1,6 +1,6 @@
 ```javascript
 import SoftwareDeveloper from 'ardhi';
-import { Languages, Frameworks } from 'ardhi/skills';
+import { Languages, Frameworks, CMS } from 'ardhi/skills';
 
 class Bio extends SoftwareDeveloper {
   name     = 'Ardhi';
@@ -12,6 +12,7 @@ class Skills extends SoftwareDeveloper {
   languages  = ['JavaScript', 'TypeScript', ...Languages];
   databases  = ['MySQL', 'MongoDB', 'PostgreSQL', 'Qdrant'];
   frameworks = ['Fastify', 'Svelte', 'React Js', 'Next Js', ...Frameworks];
+  cms        = ['Payload CMS', 'Emdash CMS', ...CMS];
 }
 
 ```
