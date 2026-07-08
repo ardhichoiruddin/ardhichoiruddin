@@ -14,7 +14,6 @@ class Skills extends SoftwareDeveloper {
   frameworks = ['Fastify', 'Svelte', 'React Js', 'Next Js', 'Astro Js', ...Frameworks];
   cms        = ['Payload CMS', 'Emdash CMS', ...CMS];
 }
-
 ```
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ardhichoiruddin&theme=default)
 
